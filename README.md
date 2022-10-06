@@ -11,12 +11,12 @@ Proposing a technical skilling plan focused on Azure Data & AI technologies and 
 ![H1](./Images/h1_events.png)
 ![H2](./Images/h2_events.png)
 
-You can find more details here about the timeline/registration [here](https://www.linkedin.com/smart-links/AQEQbKnR4QJ2Rw/c39ba816-bb8b-46f8-b6eb-f2387bf6ccc7)
+You can find more details about the timeline/registration [here](https://www.linkedin.com/smart-links/AQEQbKnR4QJ2Rw/c39ba816-bb8b-46f8-b6eb-f2387bf6ccc7).
 
 
 ## Contents
 
-We will be sharing our plan's content in the repository (slides, demos, ...)
+We will be sharing our plan's content in this repository (slides, demos, ...)
 
 |Directory||Description|
 |-|-|-|
