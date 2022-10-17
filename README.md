@@ -21,7 +21,7 @@ We will be sharing our plan's content in this repository (slides, demos, ...)
 |Directory|Description|
 |-|-|
 |[`Academy`](Academy/)|Content related to Azure [AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900): AI fundamentals & [DP-900](https://learn.microsoft.com/en-us/certifications/exams/dp-900): Data fundamentals academies.||
-|[`Kickstart`](Kickstart/)|Content related to [DP-500](https://learn.microsoft.com/en-us/certifications/exams/dp-500): Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI & [DP-100](https://learn.microsoft.com/en-us/certifications/exams/dp-100): Designing and Implementing a Data Science Solution on Azure skilling sessions we propose.||
+|[`Kickstart`](Kickstart/)|Content related to: <li>[DP-500](https://learn.microsoft.com/en-us/certifications/exams/dp-500): Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</li> <li>[DP-100](https://learn.microsoft.com/en-us/certifications/exams/dp-100): Designing and Implementing a Data Science Solution on Azure</li> <li>[DP-420](https://learn.microsoft.com/en-us/certifications/exams/dp-420): Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</li> skilling sessions we propose.||
 |[`Microhack`](Microhack/)|Content related to our CosmosDB microhack.||
 |[`Webinar`](Webinar/)|Slides shared during our different webinars.||
 |[`Workshop`](Workshop/)|Content related to our data & AI deep dive workshops.||
