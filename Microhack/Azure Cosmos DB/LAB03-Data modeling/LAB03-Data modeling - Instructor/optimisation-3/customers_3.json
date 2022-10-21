@@ -1,0 +1,314 @@
+[
+  {
+    "Type": "Customer",
+    "CustomerId": "0",
+    "Title": "Mrs.",
+    "FirstName": "Corey",
+    "LastName": "Mante",
+    "SalesOrderCount": 3,
+    "EmailAddress": "Corey.Mante@hotmail.com",
+    "PhoneNumber": "788.723.1455 x83123",
+    "CreationDate": "2018-01-20T19:20:33.8229692+01:00"
+  },
+  {
+    "Type": "Customer",
+    "CustomerId": "1",
+    "Title": "Dr.",
+    "FirstName": "Kelvin",
+    "LastName": "Mertz",
+    "SalesOrderCount": 2,
+    "EmailAddress": "Kelvin.Mertz89@yahoo.com",
+    "PhoneNumber": "431.473.8200 x193",
+    "CreationDate": "2018-05-25T06:33:51.62346+02:00"
+  },
+  {
+    "Type": "Customer",
+    "CustomerId": "2",
+    "Title": "Mr.",
+    "FirstName": "Francis",
+    "LastName": "Lubowitz",
+    "SalesOrderCount": 2,
+    "EmailAddress": "Francis1@hotmail.com",
+    "PhoneNumber": "786.763.9764 x440",
+    "CreationDate": "2014-04-01T01:42:45.2686391+02:00"
+  },
+  {
+    "Type": "Customer",
+    "CustomerId": "3",
+    "Title": "Mrs.",
+    "FirstName": "Melissa",
+    "LastName": "Haag",
+    "SalesOrderCount": 1,
+    "EmailAddress": "Melissa37@yahoo.com",
+    "PhoneNumber": "769.470.7136 x050",
+    "CreationDate": "2020-07-10T23:07:58.8105277+02:00"
+  },
+  {
+    "Type": "Customer",
+    "CustomerId": "4",
+    "Title": "Mr.",
+    "FirstName": "Jennifer",
+    "LastName": "Ebert",
+    "SalesOrderCount": 3,
+    "EmailAddress": "Jennifer_Ebert@yahoo.com",
+    "PhoneNumber": "467.346.6810",
+    "CreationDate": "2014-07-05T13:01:01.3446365+02:00"
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "4",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "0",
+        "SKU": "hic",
+        "Name": "Unbranded Wooden Chair",
+        "Price": 890.5,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "0",
+        "SKU": "aperiam",
+        "Name": "Licensed Frozen Soap",
+        "Price": 490.51,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "0",
+        "SKU": "consequuntur",
+        "Name": "Handmade Metal Shirt",
+        "Price": 930.1,
+        "Quantity": 5
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "4",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "1",
+        "SKU": "est",
+        "Name": "Ergonomic Concrete Pizza",
+        "Price": 86.13,
+        "Quantity": 5
+      },
+      {
+        "SalesOrderId": "1",
+        "SKU": "qui",
+        "Name": "Awesome Plastic Hat",
+        "Price": 599.09,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "1",
+        "SKU": "vel",
+        "Name": "Intelligent Wooden Mouse",
+        "Price": 671.16,
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "1",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "2",
+        "SKU": "vel",
+        "Name": "Intelligent Concrete Tuna",
+        "Price": 226.31,
+        "Quantity": 5
+      },
+      {
+        "SalesOrderId": "2",
+        "SKU": "tempore",
+        "Name": "Small Rubber Table",
+        "Price": 335.83,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "2",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "3",
+        "SKU": "deleniti",
+        "Name": "Refined Plastic Soap",
+        "Price": 400.83,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderId": "3",
+        "SKU": "velit",
+        "Name": "Small Plastic Chips",
+        "Price": 24.48,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "3",
+        "SKU": "harum",
+        "Name": "Sleek Steel Fish",
+        "Price": 758.84,
+        "Quantity": 5
+      },
+      {
+        "SalesOrderId": "3",
+        "SKU": "modi",
+        "Name": "Awesome Wooden Pants",
+        "Price": 46.24,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "3",
+        "SKU": "omnis",
+        "Name": "Intelligent Cotton Sausages",
+        "Price": 757.49,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "1",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "4",
+        "SKU": "eos",
+        "Name": "Fantastic Cotton Gloves",
+        "Price": 895.49,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "4",
+        "SKU": "sequi",
+        "Name": "Incredible Granite Shirt",
+        "Price": 287.56,
+        "Quantity": 1
+      },
+      {
+        "SalesOrderId": "4",
+        "SKU": "nesciunt",
+        "Name": "Ergonomic Soft Chicken",
+        "Price": 964.32,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "4",
+        "SKU": "qui",
+        "Name": "Intelligent Cotton Chair",
+        "Price": 955.71,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "4",
+        "SKU": "quo",
+        "Name": "Handmade Metal Cheese",
+        "Price": 340.61,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "4",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "5",
+        "SKU": "eum",
+        "Name": "Handmade Fresh Mouse",
+        "Price": 430.23,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "5",
+        "SKU": "voluptatem",
+        "Name": "Sleek Wooden Tuna",
+        "Price": 833.3,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "5",
+        "SKU": "dolor",
+        "Name": "Fantastic Cotton Mouse",
+        "Price": 762.24,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderId": "5",
+        "SKU": "magnam",
+        "Name": "Licensed Rubber Pants",
+        "Price": 963.78,
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "0",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "7",
+        "SKU": "id",
+        "Name": "Intelligent Granite Computer",
+        "Price": 518.98,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderId": "7",
+        "SKU": "temporibus",
+        "Name": "Tasty Metal Tuna",
+        "Price": 214.58,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderId": "7",
+        "SKU": "ipsam",
+        "Name": "Refined Concrete Pants",
+        "Price": 114.79,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "3",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "8",
+        "SKU": "quis",
+        "Name": "Unbranded Cotton Shirt",
+        "Price": 899.24,
+        "Quantity": 0
+      }
+    ]
+  },
+  {
+    "Type": "Order",
+    "CustomerId": "0",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderId": "9",
+        "SKU": "et",
+        "Name": "Awesome Fresh Computer",
+        "Price": 670.25,
+        "Quantity": 5
+      },
+      {
+        "SalesOrderId": "9",
+        "SKU": "ut",
+        "Name": "Incredible Frozen Tuna",
+        "Price": 391.87,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderId": "9",
+        "SKU": "iste",
+        "Name": "Handmade Granite Pizza",
+        "Price": 658.82,
+        "Quantity": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "CustomerId": "0",
+    "Title": "Mr.",
+    "FirstName": "Donald",
+    "LastName": "Kunde",
+    "EmailAddress": "Donald65@gmail.com",
+    "PhoneNumber": "(419) 816-4526 x680",
+    "CreationDate": "2015-03-22T17:13:51.0024558+01:00"
+  },
+  {
+    "CustomerId": "1",
+    "Title": "Ms.",
+    "FirstName": "Marcella",
+    "LastName": "Littel",
+    "EmailAddress": "Marcella_Littel40@hotmail.com",
+    "PhoneNumber": "1-351-634-1767 x184",
+    "CreationDate": "2021-03-25T10:10:02.9866468+01:00"
+  },
+  {
+    "CustomerId": "2",
+    "Title": "Miss",
+    "FirstName": "Alfred",
+    "LastName": "Cummings",
+    "EmailAddress": "Alfred22@yahoo.com",
+    "PhoneNumber": "741.615.5651",
+    "CreationDate": "2013-08-18T23:48:15.5480492+02:00"
+  },
+  {
+    "CustomerId": "3",
+    "Title": "Mrs.",
+    "FirstName": "Glenda",
+    "LastName": "Stroman",
+    "EmailAddress": "Glenda14@hotmail.com",
+    "PhoneNumber": "728.705.2820 x33401",
+    "CreationDate": "2017-03-24T01:34:54.6863315+01:00"
+  },
+  {
+    "CustomerId": "4",
+    "Title": "Dr.",
+    "FirstName": "Freddie",
+    "LastName": "Roob",
+    "EmailAddress": "Freddie.Roob65@gmail.com",
+    "PhoneNumber": "(325) 278-4980 x0405",
+    "CreationDate": "2022-03-14T01:27:14.0083667+01:00"
+  },
+  {
+    "CustomerId": "5",
+    "Title": "Mrs.",
+    "FirstName": "Noel",
+    "LastName": "Smith",
+    "EmailAddress": "Noel_Smith@hotmail.com",
+    "PhoneNumber": "626.824.8609 x46728",
+    "CreationDate": "2018-02-05T01:55:31.5871354+01:00"
+  },
+  {
+    "CustomerId": "6",
+    "Title": "Ms.",
+    "FirstName": "Alfonso",
+    "LastName": "Mitchell",
+    "EmailAddress": "Alfonso.Mitchell@hotmail.com",
+    "PhoneNumber": "1-427-602-3548 x59568",
+    "CreationDate": "2020-12-18T02:01:22.8477997+01:00"
+  },
+  {
+    "CustomerId": "7",
+    "Title": "Miss",
+    "FirstName": "Lyle",
+    "LastName": "Langworth",
+    "EmailAddress": "Lyle36@gmail.com",
+    "PhoneNumber": "(430) 849-2155",
+    "CreationDate": "2014-03-02T21:53:08.2022577+01:00"
+  },
+  {
+    "CustomerId": "8",
+    "Title": "Miss",
+    "FirstName": "Marcia",
+    "LastName": "Watsica",
+    "EmailAddress": "Marcia81@gmail.com",
+    "PhoneNumber": "516.966.5331",
+    "CreationDate": "2017-12-24T03:19:35.270558+01:00"
+  },
+  {
+    "CustomerId": "9",
+    "Title": "Mr.",
+    "FirstName": "Sean",
+    "LastName": "Gislason",
+    "EmailAddress": "Sean.Gislason@hotmail.com",
+    "PhoneNumber": "302.925.4666",
+    "CreationDate": "2016-06-17T21:31:48.8554197+02:00"
+  }
+]

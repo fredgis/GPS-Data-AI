@@ -1,0 +1,102 @@
+[
+  {
+    "Type": "Product",
+    "ProductId": "0",
+    "CategoryId": "3",
+    "CategoryName": "Home & Clothing",
+    "SKU": "repudiandae",
+    "Name": "Handmade Concrete Shoes",
+    "Description": "Ad voluptatem blanditiis dolorem eveniet ratione temporibus natus nihil.",
+    "Price": 249.78
+  },
+  {
+    "Type": "Product",
+    "ProductId": "1",
+    "CategoryId": "3",
+    "CategoryName": "Home & Clothing",
+    "SKU": "inventore",
+    "Name": "Handcrafted Rubber Tuna",
+    "Description": "Voluptate amet ut quis qui aut amet.",
+    "Price": 72.2
+  },
+  {
+    "Type": "Product",
+    "ProductId": "2",
+    "CategoryId": "4",
+    "CategoryName": "Clothing & Kids",
+    "SKU": "similique",
+    "Name": "Ergonomic Granite Gloves",
+    "Description": "Amet beatae veniam voluptatem ut.",
+    "Price": 641.83
+  },
+  {
+    "Type": "Product",
+    "ProductId": "3",
+    "CategoryId": "2",
+    "CategoryName": "Sports, Shoes & Health",
+    "SKU": "omnis",
+    "Name": "Tasty Fresh Gloves",
+    "Description": "Aspernatur laudantium nemo.",
+    "Price": 831.73
+  },
+  {
+    "Type": "Product",
+    "ProductId": "4",
+    "CategoryId": "2",
+    "CategoryName": "Sports, Shoes & Health",
+    "SKU": "sequi",
+    "Name": "Gorgeous Rubber Bacon",
+    "Description": "Qui eius et eum aut nostrum nulla.",
+    "Price": 767.8
+  },
+  {
+    "Type": "Product",
+    "ProductId": "5",
+    "CategoryId": "0",
+    "CategoryName": "Games, Baby & Beauty",
+    "SKU": "sed",
+    "Name": "Gorgeous Granite Shoes",
+    "Description": "Ut tempora consequatur sed nisi.",
+    "Price": 291.18
+  },
+  {
+    "Type": "Product",
+    "ProductId": "6",
+    "CategoryId": "0",
+    "CategoryName": "Games, Baby & Beauty",
+    "SKU": "omnis",
+    "Name": "Awesome Plastic Fish",
+    "Description": "Ratione eveniet voluptates.",
+    "Price": 319.63
+  },
+  {
+    "Type": "Product",
+    "ProductId": "7",
+    "CategoryId": "2",
+    "CategoryName": "Sports, Shoes & Health",
+    "SKU": "dignissimos",
+    "Name": "Small Granite Bacon",
+    "Description": "Fuga libero dolorum beatae totam.",
+    "Price": 425.52
+  },
+  {
+    "Type": "Product",
+    "ProductId": "8",
+    "CategoryId": "0",
+    "CategoryName": "Games, Baby & Beauty",
+    "SKU": "officia",
+    "Name": "Sleek Wooden Mouse",
+    "Description": "Explicabo rerum occaecati tempora.",
+    "Price": 254.13
+  },
+  {
+    "Type": "Product",
+    "ProductId": "9",
+    "CategoryId": "1",
+    "CategoryName": "Movies",
+    "SKU": "quas",
+    "Name": "Gorgeous Frozen Mouse",
+    "Description": "Nostrum rerum repellat.",
+    "Price": 25.78
+  }
+]

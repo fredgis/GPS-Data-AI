@@ -1,0 +1,42 @@
+[
+  {
+    "TagId": "0",
+    "TagName": "Plastic"
+  },
+  {
+    "TagId": "1",
+    "TagName": "Metal"
+  },
+  {
+    "TagId": "2",
+    "TagName": "Soft"
+  },
+  {
+    "TagId": "3",
+    "TagName": "Wooden"
+  },
+  {
+    "TagId": "4",
+    "TagName": "Granite"
+  },
+  {
+    "TagId": "5",
+    "TagName": "Plastic"
+  },
+  {
+    "TagId": "6",
+    "TagName": "Frozen"
+  },
+  {
+    "TagId": "7",
+    "TagName": "Rubber"
+  },
+  {
+    "TagId": "8",
+    "TagName": "Fresh"
+  },
+  {
+    "TagId": "9",
+    "TagName": "Fresh"
+  }
+]

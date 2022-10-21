@@ -1,0 +1,30 @@
+// lab code
+ContainerProperties leaseContainerProperties = new ContainerProperties("consoleLeases", "/id"); Container leaseContainer = await db.CreateContainerIfNotExistsAsync(leaseContainerProperties);
+Container destinationContainer = await db.CreateContainerIfNotExistsAsync(id: "CartContainerByState", partitionKeyPath: "/BuyerState");
+
+
+
+var builder = container.GetChangeFeedProcessorBuilder("migrationProcessor", (IReadOnlyCollection<CartAction> input, CancellationToken cancellationToken) =>
+{
+    Console.WriteLine(input.Count + " Changes Received");
+
+    // todo: Add processor code here
+});
+var processor = builder.WithInstanceName("changeFeedConsole").WithLeaseContainer(leaseContainer).Build();
+
+
+
+await processor.StartAsync();
+
+
+// stop code:
+await processor.StopAsync();
+
+
+// processor code
+var tasks = new List<Task>();
+foreach (var doc in input)
+{
+    tasks.Add(destinationContainer.CreateItemAsync(doc, new PartitionKey(doc.BuyerState)));
+}
+return Task.WhenAll(tasks);

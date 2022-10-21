@@ -1,0 +1,72 @@
+[
+  {
+    "ProductId": "0",
+    "SKU": "architecto",
+    "Name": "Ergonomic Metal Chair",
+    "Description": "Sit error ab et sint voluptas fuga iusto officiis.",
+    "Price": 21.61
+  },
+  {
+    "ProductId": "1",
+    "SKU": "quo",
+    "Name": "Handcrafted Metal Table",
+    "Description": "Et modi veritatis illo similique itaque numquam voluptas veniam voluptatem.",
+    "Price": 585.19
+  },
+  {
+    "ProductId": "2",
+    "SKU": "qui",
+    "Name": "Ergonomic Cotton Sausages",
+    "Description": "Repellendus perspiciatis eum enim.",
+    "Price": 93.97
+  },
+  {
+    "ProductId": "3",
+    "SKU": "eum",
+    "Name": "Ergonomic Rubber Tuna",
+    "Description": "Perspiciatis rerum iusto quidem non mollitia mollitia.",
+    "Price": 364.12
+  },
+  {
+    "ProductId": "4",
+    "SKU": "consectetur",
+    "Name": "Ergonomic Steel Bacon",
+    "Description": "Necessitatibus officia eligendi.",
+    "Price": 828.92
+  },
+  {
+    "ProductId": "5",
+    "SKU": "ut",
+    "Name": "Rustic Steel Tuna",
+    "Description": "Fuga temporibus aut.",
+    "Price": 65.4
+  },
+  {
+    "ProductId": "6",
+    "SKU": "similique",
+    "Name": "Fantastic Soft Fish",
+    "Description": "Non culpa dolorem saepe sed.",
+    "Price": 955.18
+  },
+  {
+    "ProductId": "7",
+    "SKU": "autem",
+    "Name": "Licensed Metal Salad",
+    "Description": "Sunt ducimus tenetur suscipit.",
+    "Price": 543.43
+  },
+  {
+    "ProductId": "8",
+    "SKU": "non",
+    "Name": "Practical Granite Pants",
+    "Description": "Dolor reiciendis officia.",
+    "Price": 658.47
+  },
+  {
+    "ProductId": "9",
+    "SKU": "occaecati",
+    "Name": "Awesome Plastic Car",
+    "Description": "Suscipit magnam sit molestiae.",
+    "Price": 504.64
+  }
+]

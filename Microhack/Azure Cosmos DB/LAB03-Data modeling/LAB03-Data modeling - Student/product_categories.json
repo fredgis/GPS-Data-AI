@@ -1,0 +1,42 @@
+[
+  {
+    "ProductId": "0",
+    "CategoryId": "3"
+  },
+  {
+    "ProductId": "1",
+    "CategoryId": "1"
+  },
+  {
+    "ProductId": "2",
+    "CategoryId": "1"
+  },
+  {
+    "ProductId": "3",
+    "CategoryId": "2"
+  },
+  {
+    "ProductId": "4",
+    "CategoryId": "3"
+  },
+  {
+    "ProductId": "5",
+    "CategoryId": "3"
+  },
+  {
+    "ProductId": "6",
+    "CategoryId": "2"
+  },
+  {
+    "ProductId": "7",
+    "CategoryId": "0"
+  },
+  {
+    "ProductId": "8",
+    "CategoryId": "0"
+  },
+  {
+    "ProductId": "9",
+    "CategoryId": "4"
+  }
+]

@@ -1,0 +1,104 @@
+{
+    "id": "SO43701",
+    "orderdate": "2019-07-01",
+    "customerid": 123,
+    "customerdetails": {
+        "customername": "Christy Zhu",
+        "customeremail": "christy12@adventure-works.com"
+    },
+    "product": "Mountain-100 Silver, 44",
+    "quantity": 1,
+    "price": 3399.99
+}
+
+
+{
+    "id": "SO43704",
+    "orderdate": "2019-07-01",
+    "customerid": 124,
+    "customerdetails": {
+        "customername": "Julio Ruiz",
+        "customeremail": "julio1@adventure-works.com"
+    },
+    "product": "Mountain-100 Black, 48",
+    "quantity": 1,
+    "price": 3374.99
+}
+
+
+{
+    "id": "SO43707",
+    "orderdate": "2019-07-02",
+    "customerid": 125,
+    "customerdetails": {
+        "customername": "Emma Brown",
+        "customeremail": "emma3@adventure-works.com"
+    },
+    "product": "Road-150 Red, 48",
+    "quantity": 1,
+    "price": 3578.27
+}
+
+customer_df = df.select("customerid", "customerdetails")
+display(customer_df)
+
+from pyspark.sql import functions as F 
+custdetails_df = customer_df.select("customerid",F.json_tuple(F.to_json(F.col("customerdetails")),"customername", "customeremail")) 
+display(custdetails_df)
+
+
+
+%%sql
+-- Create a logical database in the Spark metastore
+CREATE DATABASE salesdb;
+
+USE salesdb;
+
+-- Create a table from the Cosmos DB container
+CREATE TABLE salesorders using cosmos.olap options (
+    spark.synapse.linkedService 'CosmosSales',
+    spark.cosmos.container 'Sales'
+);
+
+-- Query the table
+SELECT *
+FROM salesorders;
+
+
+%%sql
+SELECT id, orderdate, customerdetails.customername, product
+FROM salesorders
+ORDER BY id;
+
+SELECT *
+FROM OPENROWSET(PROVIDER = 'CosmosDB',
+                CONNECTION = 'Account=cosmos-openhack;Database=database_teamxx',
+                OBJECT = 'Sales',
+                SERVER_CREDENTIAL = 'cosmos-openhack'
+)
+WITH (
+    OrderID VARCHAR(10) '$.id',
+    OrderDate VARCHAR(10) '$.orderdate',
+    CustomerID INTEGER '$.customerid',
+    CustomerName VARCHAR(40) '$.customerdetails.customername',
+    CustomerEmail VARCHAR(30) '$.customerdetails.customeremail',
+    Product VARCHAR(30) '$.product',
+    Quantity INTEGER '$.quantity',
+    Price FLOAT '$.price'
+)
+AS sales
+      ORDER BY OrderID;
+
+
+{
+    "id": "SO43708",
+    "orderdate": "2019-07-02",
+    "customerid": 126,
+    "customerdetails": {
+        "customername": "Samir Nadoy",
+        "customeremail": "samir1@adventure-works.com"
+    },
+    "product": "Road-150 Black, 48",
+    "quantity": 1,
+    "price": 3578.27
+}

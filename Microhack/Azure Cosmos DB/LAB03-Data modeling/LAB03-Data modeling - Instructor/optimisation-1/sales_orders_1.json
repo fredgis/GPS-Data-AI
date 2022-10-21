@@ -1,0 +1,268 @@
+[
+  {
+    "SalesOrderId": "0",
+    "CustomerId": "1",
+    "SalesOrderDetails": []
+  },
+  {
+    "SalesOrderId": "1",
+    "CustomerId": "0",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "0",
+        "SalesOrderId": "1",
+        "SKU": "enim",
+        "Name": "Refined Frozen Shirt",
+        "Price": 597.91,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderDetailId": "1",
+        "SalesOrderId": "1",
+        "SKU": "dolores",
+        "Name": "Generic Steel Table",
+        "Price": 311.78,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderDetailId": "2",
+        "SalesOrderId": "1",
+        "SKU": "labore",
+        "Name": "Ergonomic Soft Car",
+        "Price": 977.51,
+        "Quantity": 5
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "2",
+    "CustomerId": "4",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "3",
+        "SalesOrderId": "2",
+        "SKU": "eum",
+        "Name": "Ergonomic Soft Ball",
+        "Price": 609.63,
+        "Quantity": 4
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "3",
+    "CustomerId": "5",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "4",
+        "SalesOrderId": "3",
+        "SKU": "aliquam",
+        "Name": "Licensed Metal Computer",
+        "Price": 456.04,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderDetailId": "5",
+        "SalesOrderId": "3",
+        "SKU": "dolor",
+        "Name": "Incredible Metal Chips",
+        "Price": 255.01,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderDetailId": "6",
+        "SalesOrderId": "3",
+        "SKU": "repellat",
+        "Name": "Tasty Granite Car",
+        "Price": 326.53,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderDetailId": "7",
+        "SalesOrderId": "3",
+        "SKU": "aut",
+        "Name": "Licensed Metal Cheese",
+        "Price": 336.53,
+        "Quantity": 5
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "4",
+    "CustomerId": "7",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "8",
+        "SalesOrderId": "4",
+        "SKU": "quis",
+        "Name": "Fantastic Wooden Bacon",
+        "Price": 224.63,
+        "Quantity": 1
+      },
+      {
+        "SalesOrderDetailId": "9",
+        "SalesOrderId": "4",
+        "SKU": "provident",
+        "Name": "Generic Metal Sausages",
+        "Price": 333.64,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderDetailId": "10",
+        "SalesOrderId": "4",
+        "SKU": "autem",
+        "Name": "Tasty Rubber Keyboard",
+        "Price": 953.6,
+        "Quantity": 4
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "5",
+    "CustomerId": "9",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "11",
+        "SalesOrderId": "5",
+        "SKU": "perferendis",
+        "Name": "Ergonomic Granite Chair",
+        "Price": 776.07,
+        "Quantity": 4
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "6",
+    "CustomerId": "6",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "12",
+        "SalesOrderId": "6",
+        "SKU": "reprehenderit",
+        "Name": "Fantastic Steel Chicken",
+        "Price": 204.05,
+        "Quantity": 2
+      },
+      {
+        "SalesOrderDetailId": "13",
+        "SalesOrderId": "6",
+        "SKU": "aliquam",
+        "Name": "Handmade Cotton Fish",
+        "Price": 175.0,
+        "Quantity": 4
+      },
+      {
+        "SalesOrderDetailId": "14",
+        "SalesOrderId": "6",
+        "SKU": "accusantium",
+        "Name": "Ergonomic Wooden Chicken",
+        "Price": 640.84,
+        "Quantity": 1
+      },
+      {
+        "SalesOrderDetailId": "15",
+        "SalesOrderId": "6",
+        "SKU": "asperiores",
+        "Name": "Gorgeous Granite Table",
+        "Price": 431.29,
+        "Quantity": 1
+      },
+      {
+        "SalesOrderDetailId": "16",
+        "SalesOrderId": "6",
+        "SKU": "explicabo",
+        "Name": "Sleek Metal Keyboard",
+        "Price": 337.45,
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "7",
+    "CustomerId": "4",
+    "SalesOrderDetails": []
+  },
+  {
+    "SalesOrderId": "8",
+    "CustomerId": "2",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "17",
+        "SalesOrderId": "8",
+        "SKU": "praesentium",
+        "Name": "Licensed Soft Salad",
+        "Price": 665.42,
+        "Quantity": 2
+      },
+      {
+        "SalesOrderDetailId": "18",
+        "SalesOrderId": "8",
+        "SKU": "soluta",
+        "Name": "Ergonomic Plastic Table",
+        "Price": 575.89,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderDetailId": "19",
+        "SalesOrderId": "8",
+        "SKU": "doloremque",
+        "Name": "Incredible Fresh Keyboard",
+        "Price": 616.47,
+        "Quantity": 0
+      },
+      {
+        "SalesOrderDetailId": "20",
+        "SalesOrderId": "8",
+        "SKU": "est",
+        "Name": "Fantastic Steel Computer",
+        "Price": 736.3,
+        "Quantity": 5
+      },
+      {
+        "SalesOrderDetailId": "21",
+        "SalesOrderId": "8",
+        "SKU": "non",
+        "Name": "Handmade Rubber Salad",
+        "Price": 735.07,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "SalesOrderId": "9",
+    "CustomerId": "7",
+    "SalesOrderDetails": [
+      {
+        "SalesOrderDetailId": "22",
+        "SalesOrderId": "9",
+        "SKU": "fugiat",
+        "Name": "Handcrafted Wooden Bacon",
+        "Price": 507.85,
+        "Quantity": 3
+      },
+      {
+        "SalesOrderDetailId": "23",
+        "SalesOrderId": "9",
+        "SKU": "maxime",
+        "Name": "Fantastic Wooden Bacon",
+        "Price": 732.84,
+        "Quantity": 2
+      },
+      {
+        "SalesOrderDetailId": "24",
+        "SalesOrderId": "9",
+        "SKU": "quas",
+        "Name": "Handcrafted Plastic Shirt",
+        "Price": 730.96,
+        "Quantity": 1
+      },
+      {
+        "SalesOrderDetailId": "25",
+        "SalesOrderId": "9",
+        "SKU": "provident",
+        "Name": "Intelligent Concrete Soap",
+        "Price": 812.77,
+        "Quantity": 2
+      }
+    ]
+  }
+]

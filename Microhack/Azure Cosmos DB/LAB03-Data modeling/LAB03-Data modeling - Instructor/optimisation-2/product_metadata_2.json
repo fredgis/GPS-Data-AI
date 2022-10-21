@@ -1,0 +1,77 @@
+[
+  {
+    "Type": "Category",
+    "CategoryId": "0",
+    "Name": "Games, Baby & Beauty"
+  },
+  {
+    "Type": "Category",
+    "CategoryId": "1",
+    "Name": "Movies"
+  },
+  {
+    "Type": "Category",
+    "CategoryId": "2",
+    "Name": "Sports, Shoes & Health"
+  },
+  {
+    "Type": "Category",
+    "CategoryId": "3",
+    "Name": "Home & Clothing"
+  },
+  {
+    "Type": "Category",
+    "CategoryId": "4",
+    "Name": "Clothing & Kids"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "0",
+    "TagName": "Plastic"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "1",
+    "TagName": "Metal"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "2",
+    "TagName": "Soft"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "3",
+    "TagName": "Wooden"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "4",
+    "TagName": "Granite"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "5",
+    "TagName": "Plastic"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "6",
+    "TagName": "Frozen"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "7",
+    "TagName": "Rubber"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "8",
+    "TagName": "Fresh"
+  },
+  {
+    "Type": "Tag",
+    "TagId": "9",
+    "TagName": "Fresh"
+  }
+]

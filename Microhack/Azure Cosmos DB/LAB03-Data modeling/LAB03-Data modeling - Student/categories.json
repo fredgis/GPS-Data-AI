@@ -1,0 +1,22 @@
+[
+  {
+    "CategoryId": "0",
+    "CategoryName": "Baby & Toys"
+  },
+  {
+    "CategoryId": "1",
+    "CategoryName": "Cookware"
+  },
+  {
+    "CategoryId": "2",
+    "CategoryName": "Outdoors"
+  },
+  {
+    "CategoryId": "3",
+    "CategoryName": "Clothing, Home & Computers"
+  },
+  {
+    "CategoryId": "4",
+    "CategoryName": "Electronics & Outdoors"
+  }
+]
